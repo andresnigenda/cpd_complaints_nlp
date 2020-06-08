@@ -1,5 +1,5 @@
 ,category,layers,model_test_accuraccy
-0,tasers_baton_aggressive_physical_touch_gun,"[300, 50, 2]",0.7985611510791367
-1,tasers_baton_aggressive_physical_touch_gun,"[300, 50, 2]",0.8496732026143791
-2,tasers_baton_aggressive_physical_touch_gun,"[300, 50, 2]",0.8417721518987342
-3,tasers_baton_aggressive_physical_touch_gun,"[300, 50, 2]",0.9215686274509803
+0,tasers_baton_aggressive_physical_touch_gun,"[300, 50, 2]",0.798561151
+1,trespass_robbery,"[300, 50, 2]",0.849673203
+2,racial_slurs_xenophobic_remarks_,"[300, 50, 2]",0.841772152
+3,planting_drug_guns,"[300, 50, 2]",0.921568627
