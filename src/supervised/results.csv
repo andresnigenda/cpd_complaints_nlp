@@ -1,0 +1,5 @@
+,category,best_model_regularization,regularization_param,max_iter,model_test_accuraccy
+0,tasers_baton_aggressive_physical_touch_gun,L2,0.05,,0.8484848484848485
+1,trespass_robbery,L2,0.01,,0.864406779661017
+2,racial_slurs_xenophobic_remarks_,L1,0.05,,0.935064935064935
+3,planting_drug_guns,L1,0.02,,0.9333333333333333
